@@ -100,6 +100,6 @@ streamlit run app.py
 2. Select the number of words to generate.
 3. Click **Generate**.
 
-## Author
+## 🔗 Author
 
 **Shreyas Singh** · [GitHub](https://github.com/shreyas-650)
